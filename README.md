@@ -17,7 +17,12 @@ community-data-files
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[l10n_eu_product_adr](l10n_eu_product_adr/) | 18.0.1.0.0 |  | Allows to set appropriate danger class and components
+[uom_unece](uom_unece/) | 18.0.1.0.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | UNECE nomenclature for the units of measure
 
 [//]: # (end addons)
 
